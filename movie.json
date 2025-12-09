@@ -1,0 +1,34 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Inception",
+      "genre": "Sci-fi",
+      "year": 2010
+    },
+    {
+      "id": "2",
+      "title": "Pulp Fiction",
+      "genre": "Crime",
+      "year": 1994
+    },
+    {
+      "id": "3",
+      "title": "Dune",
+      "genre": "Sci-fi",
+      "year": 2021
+    },
+    {
+      "id": "89fb",
+      "title": "The Batman",
+      "genre": "Action",
+      "year": "2022"
+    },
+    {
+      "id": "f99d",
+      "title": "The Maleficent",
+      "year": "2014",
+      "genre": "dark fantasy"
+    }
+  ]
+}
